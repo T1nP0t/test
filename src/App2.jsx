@@ -15,7 +15,6 @@ export default function App() {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
-        <a href='/test'>hi</a>
       </div>
       <h1>Vite + React</h1>
       <div className="card">
@@ -23,7 +22,7 @@ export default function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Edit <code>TEST</code> and save to test HMR
         </p>
       </div>
       <p className="read-the-docs">
