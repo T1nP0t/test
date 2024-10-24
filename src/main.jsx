@@ -6,8 +6,8 @@ import App from './App.jsx'
 import App2 from './App2.jsx'
 
 const router = createBrowserRouter([
-  {path: '/', element: <App />},
-  {path: '/test', element: <App2 />},
+  {path: '/test', element: <App />},
+  {path: '/test2', element: <App2 />},
 ]);
 
 createRoot(document.getElementById('root')).render(
